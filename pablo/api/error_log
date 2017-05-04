@@ -1,0 +1,38 @@
+[04-Sep-2014 14:36:57 UTC] PHP Fatal error:  Class 'Request' not found in /home/apinho/public_html/pablo/api/dublinbikes.php on line 6
+[04-Sep-2014 14:38:06 UTC] PHP Fatal error:  Class 'Request' not found in /home/apinho/public_html/pablo/api/dublinbikes.php on line 6
+[04-Sep-2014 14:40:33 UTC] PHP Fatal error:  Class 'Request' not found in /home/apinho/public_html/pablo/api/dublinbikes.php on line 6
+[04-Sep-2014 15:55:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to parse response as XML' in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php:44
+Stack trace:
+#0 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(103): Httpful\Handlers\XmlHandler->parse('<!DOCTYPE HTML ...')
+#1 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(42): Httpful\Response->_parse('<!DOCTYPE HTML ...')
+#2 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Request.php(229): Httpful\Response->__construct('<!DOCTYPE HTML ...', 'HTTP/1.1 404 No...', Object(Httpful\Request))
+#3 /home/apinho/public_html/pablo/api/dublinbikes.php(16): Httpful\Request->send()
+#4 {main}
+  thrown in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php on line 44
+[04-Sep-2014 15:56:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to parse response as XML' in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php:44
+Stack trace:
+#0 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(103): Httpful\Handlers\XmlHandler->parse('<!DOCTYPE HTML ...')
+#1 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(42): Httpful\Response->_parse('<!DOCTYPE HTML ...')
+#2 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Request.php(229): Httpful\Response->__construct('<!DOCTYPE HTML ...', 'HTTP/1.1 404 No...', Object(Httpful\Request))
+#3 /home/apinho/public_html/pablo/api/dublinbikes.php(16): Httpful\Request->send()
+#4 {main}
+  thrown in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php on line 44
+[04-Sep-2014 15:58:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to parse response as XML' in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php:44
+Stack trace:
+#0 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(103): Httpful\Handlers\XmlHandler->parse('<!DOCTYPE HTML ...')
+#1 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Response.php(42): Httpful\Response->_parse('<!DOCTYPE HTML ...')
+#2 phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Request.php(229): Httpful\Response->__construct('<!DOCTYPE HTML ...', 'HTTP/1.1 404 No...', Object(Httpful\Request))
+#3 /home/apinho/public_html/pablo/api/dublinbikes.php(16): Httpful\Request->send()
+#4 {main}
+  thrown in phar:///home/apinho/public_html/pablo/api/lib/httpful.phar/Httpful/Handlers/XmlHandler.php on line 44
+[04-Sep-2014 16:44:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@$1409848926) at position 0 (@): Unexpected character' in /home/apinho/public_html/pablo/api/dublinbikes.php:18
+Stack trace:
+#0 /home/apinho/public_html/pablo/api/dublinbikes.php(18): DateTime->__construct('@$1409848926')
+#1 {main}
+  thrown in /home/apinho/public_html/pablo/api/dublinbikes.php on line 18
+[04-Sep-2014 16:45:13 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (1409848926) at position 8 (2): Unexpected character' in /home/apinho/public_html/pablo/api/dublinbikes.php:18
+Stack trace:
+#0 /home/apinho/public_html/pablo/api/dublinbikes.php(18): DateTime->__construct('1409848926')
+#1 {main}
+  thrown in /home/apinho/public_html/pablo/api/dublinbikes.php on line 18
+[04-Sep-2014 16:46:39 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/apinho/public_html/pablo/api/dublinbikes.php on line 24

@@ -1,0 +1,418 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201409 will be lost/reset.
+# Last config file used to build this data file was /home/apinho/tmp/awstats/awstats.dubikesapp.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2006                
+POS_TIME 2684                
+POS_VISITOR 8819                
+POS_DAY 10370               
+POS_DOMAIN 3369                
+POS_LOGIN 3670                
+POS_ROBOT 3825                
+POS_WORMS 4154                
+POS_EMAILSENDER 4285                
+POS_EMAILRECEIVER 4428                
+POS_SESSION 11064               
+POS_SIDER 11249               
+POS_FILETYPES 4563                
+POS_DOWNLOADS 4798                
+POS_OS 4846                
+POS_BROWSER 4995                
+POS_SCREENSIZE 5467                
+POS_UNKNOWNREFERER 5541                
+POS_UNKNOWNREFERERBROWSER 6149                
+POS_ORIGIN 6574                
+POS_SEREFERRALS 6711                
+POS_PAGEREFS 6866                
+POS_SEARCHWORDS 7078                
+POS_KEYWORDS 7268                
+POS_MISC 2348                
+POS_ERRORS 7367                
+POS_CLUSTER 3526                
+POS_SIDER_404 7491                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141001011458 18 3804 11649189385370
+FirstTime 20140901035040
+LastTime 20140930152619
+LastUpdate 20141001050819 18 0 17 0 0
+TotalVisits 78                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 5889 1 2 3662
+1 13 63 2746213 0 7 1699
+2 1 4 20683 6 9 14120
+3 3 13 8972 3 8 12685
+4 11 11 27759 10 14 17927
+5 12 22 703744 2 5 7324
+6 31 81 2061510 16 32 34407
+7 65 65 314322 13 24 20643
+8 70 130 5302985 3 14 5860
+9 26 26 228315 2 9 7324
+10 5 5 53704 0 1 1699
+11 4 14 728397 2 5 3897
+12 2 2 10935 1 1 1963
+13 1 1 1963 1 3 3662
+14 4 25 1441056 3 10 278417
+15 4 14 628159 5 10 21896
+16 2 2 3926 6 7 12421
+17 0 0 0 3 6 10986
+18 3 3 12898 4 10 18046
+19 1 1 1963 3 6 10986
+20 3 3 12898 2 5 9023
+21 5 5 16824 2 5 9023
+22 0 0 0 17 18 31110
+23 0 0 0 3 6 9287
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ie 194 364 10677608
+us 57 58 251583
+pt 11 61 3364454
+il 3 6 31618
+ru 3 3 5889
+es 1 1 1963
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 26 56084 20140930061647 0
+googlebot 15 29445 20140924162501 0
+[\s_+:,\.\;\/\\-]bot 2 3926 20140921232632 0
+linkwalker 2 10935 20140913153346 0
+netcraft 1 1963 20140911180412 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 69 2329893 0 0
+png 23 2391451 0 0
+woff 15 1005120 0 0
+php 153 2711895 0 0
+html 91 256058 0 0
+js 88 2365006 0 0
+jpg 38 3110628 0 0
+Unknown 10 89720 0 0
+svg 6 73344 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+blackberry 1
+linuxandroid 14
+winxp 6
+winlong 1
+linux 33
+winvista 68
+win7 170
+macosx 152
+win2003 2
+Unknown 46
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 26
+firefox28.0 1
+chrome37.0.2062.124 34
+blackberry 1
+chrome37.0.2062.117 2
+android 12
+firefox26.0 1
+firefox18.0 3
+chrome31.0.1650.63 1
+opera9.80 1
+ecatch 1
+safari6.0.5 1
+chrome36.0.1985.143 14
+mozilla 2
+netscape5.0 1
+msie7.0 3
+firefox14.0.1 2
+chrome37.0.2062.120 56
+chrome25.0.1364.172 1
+chrome37.0.2062.122 24
+chrome11.0.696.71 2
+chrome37.0.2062.103 28
+safari6.1 1
+Unknown 43
+firefox3.6.8 4
+chrome37.0.2062.94 246
+safari 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+visionutils/0.2 20140905141847
+Ruby 20140930061537
+PHP/5.3.27 20140904211746
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20140906042008
+Fiddler 20140904101933
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140917004741
+SEOstats_2.1.0__________https://github.com/eyecatchup/SEOstats 20140917004742
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140927193858
+Riddler_(http://riddler.io/about.html) 20140905114600
+wsr-agent/1.0 20140919050333
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+visionutils/0.2 20140905141847
+Ruby 20140930061537
+PHP/5.3.27 20140904211746
+Fiddler 20140904101933
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140917004741
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20140927193858
+Riddler_(http://riddler.io/about.html) 20140905114600
+wsr-agent/1.0 20140919050333
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 244 248
+From1 0 0
+From2 4 4
+From3 2 2
+From4 19 239
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://mawords.com/dubikesapp.com 1 1
+http://dubiaforex.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+http+%2f%2fdubikesapp.com%2ftest%2f 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+http 4
+%2f%2fdubikesapp.com%2ftest%2f 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 6 276219
+500 9 6012
+301 7 1669
+404 98 161814
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 34
+/cart/include/version.php 1 -
+/pablo/api/dublinbikes 1 -
+/buy/include/version.php 1 -
+/robots.txt 49 -
+/admin.php 1 -
+/cPanel_magic_revision_1405980096/unprotected/custom/assets/images/login-logo.png 1 -
+/pablo/api/simpletodo_api/read/1 1 -
+/pablo/api/simpletodo_api/read/ 1 -
+/pablo/api/details/ 1 -
+/pablo/api/example 1 -
+/blog/xmlrpc.php 1 -
+/store/include/version.php 1 -
+/pablo/api/simpletodo_api/ 1 -
+/about:blank 1 http://dubikesapp.com/cpanel
+/xmlrpc.php 1 -
+/pablo/api/details/7 1 -
+/order/include/version.php 1 -
+/wordpress/xmlrpc.php 1 -
+/wp/xmlrpc.php 1 -
+/xcart/include/version.php 1 -
+/test.php 1 -
+/include/version.php 8 -
+/pablo/api/details.php 1 -
+/pablo/api/detail 3 -
+/administrator/ 1 -
+/img/Download_on_the_App_Store_Badge_US-UK_135x40.svg 3 http://dubikesapp.com/test/
+/wp-login.php 1 -
+/pablo/decent/joe 2 -
+/market/include/version.php 1 -
+/pablo/api 1 -
+/pablo/decent/hello/pablo 1 -
+/pablo/decent/ 4 http://www.dubikesapp.com/pablo/decent/
+/pablo/api/details 2 -
+/shop/include/version.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+193.120.220.3 181 311 7954644 20140929083808
+184.168.224.190 29 29 56927 20140930061537
+193.137.170.60 5 25 1300988 20140929083826
+69.58.178.57 3 3 12898 20140910204825
+199.217.119.4 3 3 5889 20140917004742
+178.62.247.171 3 3 5889 20140927150400
+206.183.1.74 2 2 10935 20140906042008
+46.7.119.12 2 12 706030 20140927115517
+109.255.5.108 2 12 624233 20140930152619
+62.219.8.239 2 2 10935 20140903011518
+89.234.68.100 2 2 3926 20140911091203
+89.153.138.193 2 12 678718 20140904014425
+89.234.68.103 2 2 10935 20140909044145
+38.99.82.220 2 2 3926 20140928184303
+193.136.93.197 2 12 678718 20140904014749
+212.1.211.8 2 2 3926 20140904211746
+208.110.85.234 2 2 10935 20140928101140
+193.136.93.192 2 12 706030 20140929083819
+109.255.92.205 2 12 678718 20140905141832
+38.100.21.69 2 2 10935 20140918121615
+109.255.149.18 2 12 678718 20140905142013
+50.116.23.113 1 1 1963 20140919050333
+162.244.33.8 1 1 1963 20140907164325
+5.56.63.52 1 1 1963 20140927193858
+62.219.8.233 1 1 1963 20140902213052
+192.237.216.89 1 1 1963 20140914045446
+38.99.82.240 1 1 1963 20140928153405
+54.83.133.214 1 1 1963 20140909025947
+38.99.82.217 1 1 8972 20140928185743
+38.99.82.191 1 1 8972 20140901062659
+82.80.249.164 0 2 9874 
+38.99.82.214 1 1 8972 20140928211433
+54.211.91.134 1 1 1963 20140905114600
+82.80.244.52 0 1 8846 
+97.74.104.17 1 1 1963 20140904060246
+173.252.79.119 0 1 83620 
+38.99.82.210 1 1 8972 20140901035040
+217.114.169.252 1 1 20404 20140904110159
+198.101.238.203 1 1 1963 20140914040257
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20140901 3 3 19907 3
+20140902 2 2 3926 2
+20140903 9 42 1389054 3
+20140904 167 207 4735659 9
+20140905 12 53 2830183 6
+20140906 3 3 12898 2
+20140907 2 2 3926 2
+20140908 1 1 1963 1
+20140909 9 19 12898 3
+20140910 5 5 16824 3
+20140911 2 2 3926 2
+20140912 3 3 1963 2
+20140913 2 2 3926 2
+20140914 3 3 5889 3
+20140915 1 1 1963 1
+20140916 1 1 1963 1
+20140917 4 4 7852 2
+20140918 3 3 12898 2
+20140919 2 2 3926 2
+20140920 1 1 1963 1
+20140921 1 1 1963 1
+20140922 1 1 1963 1
+20140923 1 1 1963 1
+20140924 1 1 1963 1
+20140925 8 58 1922414 4
+20140926 1 1 1963 1
+20140927 5 15 711919 4
+20140928 8 8 36731 7
+20140929 5 35 1952533 4
+20140930 3 13 626196 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+0s-30s 73
+30s-2mn 1
+15mn-30mn 2
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/pablo/api/dublinbikes.php 141 2526607 2 3
+/ 61 115817 56 49
+/test/ 23 140077 15 4
+/test/font-awesome-4.1.0/fonts/fontawesome-webfont.woff 15 1005120 0 11
+/pablo/test.php 12 185288 1 0
+/cpanel 10 89720 4 10
+/pablo/decent/ 4 0 0 1
+/pablo/api/ 2 106 0 0
+/pablo/simpletodo_api/ 1 58 0 0
+END_SIDER

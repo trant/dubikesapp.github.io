@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="532px" height="532px" viewBox="0 0 532 532" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.9%" y="-2.7%" width="107.0%" height="106.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" filter="url(#filter-1)" transform="translate(10.000000, 8.000000)">
+            <rect id="Rectangle-2" fill="#245B5B" x="0" y="0" width="512" height="512" rx="89"></rect>
+            <g id="Group-2" transform="translate(243.228303, 246.574445) rotate(-22.000000) translate(-243.228303, -246.574445) translate(40.228303, 115.074445)" stroke="#FFFFFF">
+                <circle id="Oval" stroke-width="12.8" cx="74.6666667" cy="187.866667" r="74.6666667"></circle>
+                <circle id="Oval" stroke-width="12.8" cx="330.666667" cy="187.866667" r="74.6666667"></circle>
+                <path d="M291.97059,68.7318775 L134.935123,68.7674848 L188.714392,180.297981 L110.933333,27.8666667 L132.783952,64.4778504 L72.5333333,185.733333 L188.714392,185.733333 L296.272931,68.7318775 L328.533333,185.733333 L285.737656,15.7042038 C285.737656,15.7042038 261.854199,14.5899042 244.644833,15.147054 C227.435466,15.7042038 227.435466,0.133333333 227.435466,0.133333333" id="Path-2" stroke-width="12.8"></path>
+                <path d="M98.1333333,23.6 L162.133333,23.6 C162.133333,23.6 162.133333,36.4 145.659568,36.4 L137.422686,36.4 L116.83048,36.4 L98.1333333,36.4 C93.1307247,27.7622402 98.1333333,23.6 98.1333333,23.6 Z" id="Path-3" stroke-width="4.26666667" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,437 @@
+# Webalizer V2.23-05 Incremental Data - 10/14/2014 01:47:27
+2014 10 14 1 47 27
+310 202 57 25 15 32 8687775 82 66 0
+2 14 38 1 14
+13 8 24199 9 8 8
+75 53 2853617 12 15 9
+58 31 1444424 9 9 7
+19 15 765606 4 4 4
+27 22 967224 5 6 4
+6 4 34594 3 4 3
+30 16 695721 3 5 3
+2 2 15586 2 2 2
+28 19 839273 10 7 7
+13 4 39667 6 8 8
+10 3 26777 4 7 4
+12 10 302657 4 3 3
+3 2 9492 2 2 2
+14 13 668938 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+60 42 2076585 11
+26 13 670643 2
+36 30 1440169 9
+0 0 0 0
+20 16 638881 7
+4 3 19254 3
+10 6 159408 4
+43 17 703368 7
+0 0 0 0
+13 10 304356 3
+7 4 30451 4
+22 14 874241 7
+1 0 0 1
+17 14 644922 4
+30 23 1047574 7
+3 2 7793 3
+2 0 1699 1
+1 1 7799 1
+0 0 0 0
+9 5 39943 5
+0 0 0 0
+2 1 9498 1
+4 1 11191 2
+0
+0
+0
+202
+0
+0
+0
+0
+0
+3
+0
+3
+0
+0
+51
+0
+0
+0
+0
+0
+0
+51
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/test/font-awesome-4.1.0/fonts/fontawesome-webfont.woff
+0 1 0 83760 0 0
+/img/app-store.svg
+0 10 0 85568 0 0
+/font-awesome-4.1.0/fonts/fontawesome-webfont.woff
+0 2 0 167520 0 0
+/img/iphone.png
+0 10 0 1471631 0 0
+/js/jquery-1.11.0.js
+0 12 0 867420 0 0
+/js/bootstrap.min.js
+0 12 0 286371 0 0
+/js/grayscale.js
+0 12 0 48195 0 0
+/test/js/bootstrap.min.js
+0 5 0 127276 0 0
+/test/img/intro-bg.jpg
+0 5 0 466376 0 0
+/test/font-awesome-4.1.0/css/font-awesome.min.css
+0 5 0 83064 0 0
+/test/css/bootstrap.min.css
+0 5 0 438072 0 0
+/img/Icon-Small-40@2x.png
+0 10 0 257054 0 0
+/test/css/grayscale.css
+0 5 0 25740 0 0
+/test/
+0 6 0 36910 3 1
+/img/intro-bg.jpg
+0 10 0 816158 0 0
+/test/js/jquery-1.11.0.js
+0 5 0 385520 0 0
+/font-awesome-4.1.0/css/font-awesome.min.css
+0 13 0 207660 0 0
+/css/grayscale.css
+0 13 0 64780 0 0
+/test/js/jquery.easing.min.js
+0 5 0 22256 0 0
+/css/bootstrap.min.css
+0 13 0 1095180 0 0
+/js/jquery.easing.min.js
+0 12 0 50076 0 0
+/test/img/iphone.png
+0 7 0 1060165 0 0
+/
+0 66 0 356701 59 18
+/test/img/app-store.svg
+0 7 0 82344 0 0
+/test/js/grayscale.js
+0 5 0 21420 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.65.74
+0 4 3 212952 0 0
+-
+64.246.165.170
+0 2 1 9498 1 1412432479
+/
+66.249.88.217
+0 1 1 7720 1 1412326517
+/
+66.249.64.10
+0 1 0 1699 0 0
+-
+184.168.224.190
+0 4 4 13688 4 1412404142
+/
+46.7.119.12
+0 28 26 1489822 2 1412394358
+/
+173.252.100.112
+0 2 1 7617 1 1412252044
+/test/
+66.249.79.34
+0 4 4 116006 1 1413132418
+/
+192.99.39.77
+0 2 1 3662 1 1412161772
+/
+91.121.100.66
+0 1 1 1963 1 1412232857
+/
+66.249.64.6
+0 1 1 1963 1 1412167474
+/
+193.120.220.5
+0 2 0 3398 1 1412401187
+/test/
+173.252.103.3
+0 1 1 210233 0 0
+-
+37.57.231.123
+0 4 1 12896 1 1412479898
+/
+173.252.103.1
+0 1 1 12224 0 0
+-
+173.252.100.115
+0 2 2 18000 0 0
+-
+66.249.79.146
+0 5 1 9492 4 1413011583
+/
+69.58.178.58
+0 3 2 17297 1 1412596438
+/
+66.249.65.102
+0 1 0 1699 0 0
+-
+66.249.79.130
+0 4 0 1699 3 1412961124
+/
+66.249.67.130
+0 2 1 22465 0 0
+-
+66.249.65.106
+0 1 1 1963 1 1412133126
+/
+74.208.184.251
+0 1 0 1699 0 0
+-
+192.99.40.137
+0 2 2 15586 1 1412651291
+/
+66.249.79.50
+0 2 1 111217 0 0
+-
+192.99.107.10
+0 2 1 9492 1 1412712296
+/
+66.249.64.2
+0 1 1 1963 1 1412149769
+/
+192.99.107.154
+0 2 1 3662 1 1412226464
+/
+192.99.107.46
+0 2 1 9498 1 1412635420
+/
+208.110.85.234
+0 1 1 1963 1 1412298224
+/
+66.249.79.42
+0 4 4 65942 1 1413110818
+/
+192.99.107.28
+0 4 2 18984 2 1413007242
+/
+192.99.107.100
+0 4 2 18984 2 1413197004
+/
+66.249.67.146
+0 1 1 6478 0 0
+-
+91.221.108.181
+0 2 1 9492 1 1412809660
+/
+66.249.84.8
+0 2 1 9492 1 1413104285
+/
+71.189.164.218
+0 1 1 7793 1 1413251247
+/
+69.30.241.2
+0 1 1 7799 1 1412360621
+/
+142.4.217.11
+0 2 1 3662 1 1412194435
+/
+62.17.0.162
+0 15 12 709663 1 1412213613
+/test/
+17.218.239.187
+0 1 1 0 1 1413218430
+/
+64.202.161.41
+0 5 1 7793 1 1413041920
+-
+104.131.210.168
+0 1 1 7793 1 1412756710
+/
+89.155.214.117
+0 13 12 625932 1 1412261810
+/
+193.136.93.2
+0 13 12 625932 1 1412228926
+/test/
+66.249.65.66
+0 3 2 15976 1 1412559095
+/
+87.198.115.206
+0 12 11 622505 1 1412252044
+/test/
+89.100.58.11
+0 13 12 661145 1 1412819977
+/
+193.120.220.3
+0 91 41 2020207 6 1413249203
+/
+66.249.79.138
+0 2 0 1699 1 1412982170
+/
+192.99.107.190
+0 4 2 18984 2 1412953906
+/
+192.99.107.136
+0 2 1 9492 1 1412888041
+/
+66.249.67.138
+0 2 2 117311 1 1412838674
+/
+162.244.33.8
+0 2 1 9492 1 1413037394
+/
+66.249.65.70
+0 6 6 81546 3 1412539732
+/
+157.55.39.202
+0 2 1 9492 1 1412849025
+/
+89.100.61.84
+0 13 12 661151 1 1412480916
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+71.189.164.218
+0 1 1 7793 1 1413251247
+/
+193.120.220.3
+0 13 12 661145 1 1413249203
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://dubikesapp.com/test/css/grayscale.css
+0 4
+http://www.google.com/url
+0 1
+https://www.google.ie/
+0 1
+http://fintelius.com
+0 1
+http://whois.domaintools.com/dubikesapp.com
+0 1
+http://dubikesapp.com/css/grayscale.css
+0 8
+- (Direct Request)
+0 123
+http://www.dubikesapp.com/
+0 7
+http://dubikesapp.com/test/
+0 46
+http://dubikesapp.com/test/font-awesome-4.1.0/css/font-awesome.min.css
+0 1
+http://dubikesapp.com/font-awesome-4.1.0/css/font-awesome.min.css
+0 1
+http://mawords.com/dubikesapp.com
+0 2
+https://m.facebook.com
+0 1
+http://dubikesapp.com/
+0 111
+http://dubikesapp.com/test
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 67
+Mozilla/5.0 (Windows NT 6.2; WOW64) Runet-Research-Crawler (itrack.ru/research/cmsrate; rating@itrack.ru)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 2
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 24
+Mozilla/5.0 (compatible; Gimme60bot/1.0; +http://gimme60.com)
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405 [FBAN/MessengerForiOS;FB
+0 12
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; Nexus 4 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile S
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 43
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/4.0 (compatible; Synapse)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 13
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 1
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+0 14
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 2
+Aquarium/9 (iPad; iPhone OS 8.0.2) 3C10
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 50
+User-Agent\tMozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 13
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; CrawlDaddy v0.3.0 abot v1.2.0.0 http://code.google.com/p/abot)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/28.0
+0 2
+Ruby
+0 4
+Google_Analytics_Snippet_Validator
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile S
+0 14
+# End Of Table - agents
+# -search strings- 
+http://dubikesapp.com/test/
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
